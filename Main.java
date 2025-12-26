@@ -17,6 +17,6 @@ public class Main {
         System.out.println("Divi "+ (a/b));
 
         System.out.println("------------------------------------");
-        System.out.println("Sum "+ (a+b) + "Diff "+ (a-b) + "Multi "+ (a*b) + "Divi "+ (a/b) );
+        System.out.println("Sum "+ (a+b) + "\nDiff "+ (a-b) + "\nMulti "+ (a*b) + "\nDivi "+ (a/b) );
     }
 }
